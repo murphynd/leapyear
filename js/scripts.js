@@ -24,3 +24,15 @@ function isLeapYear(year) {
     return false;
   }
 }
+
+// test three 
+// Test: "It returns false for years that are divisible by 100"
+// Expect(isLeapYear(2100)).toEqual(false);
+
+function isLeapYear(year) {
+  if ((year % 4 === 0) && (year % 100 !== 0)) {
+    return true;
+  } else {
+    return false;
+  }
+}
