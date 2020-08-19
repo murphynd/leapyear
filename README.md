@@ -1,8 +1,8 @@
-# _{Leap Year}_
+# _Leap Year_
 
-#### _{Widget to tell you if a year is a leap year}, {Aug 19 2020}_
+#### _Widget to tell you if a year is a leap year, Aug 19 2020_
 
-#### By _**{Natalie Murphy & Michael Watts}**_
+#### By _**Natalie Murphy & Michael Watts**_
 
 ## Description
 
@@ -39,4 +39,4 @@ Each time a user offers a year to evaluate, we will need to test the value again
 
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2020 **_Natalie Murphy & Michael Watts_**
